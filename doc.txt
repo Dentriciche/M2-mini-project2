@@ -1,0 +1,6 @@
+Dataset of the 1000 top streamers from Twitch
+File comes from 
+https://www.kaggle.com/aayushmishra1512/twitchdata
+
+Lien vers les slides 
+https://public.tableau.com/profile/theillac#!/vizhome/Top1000Twitcher/Histoire1?publish=yes
